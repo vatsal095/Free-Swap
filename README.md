@@ -12,3 +12,6 @@ Deploy it on ropsten and Ganache.
 # Deploy the Contracts 
 1. npm install <br>
 2. truffle migrate --network [networkName] (networkName: Ropsten)
+
+# Out put 
+![Screenshot](output.png)
