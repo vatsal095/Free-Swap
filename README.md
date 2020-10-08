@@ -15,5 +15,5 @@ Deploy it on ropsten and Ganache.
 
 # Out put 
 ![Screenshot](output.png)
-![Screenshot](pr.png)
+![Screenshot](pa2.png)
 
